@@ -2,7 +2,7 @@
 
 REST API backend untuk website portfolio pribadi. Menyediakan data project, about, sertifikat, serta sistem autentikasi admin (login OTP + JWT) dan pengelolaan pesan dari contact form.
 
-Repo frontend (Vue): [portfolio-frontend](https://github.com/USERNAME/portfolio-frontend)
+Repo frontend (Vue): [portfolio-frontend](https://github.com/Abrahamazka/portfolio-frontend)
 
 ---
 
